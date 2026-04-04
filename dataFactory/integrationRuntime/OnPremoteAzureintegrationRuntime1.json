@@ -1,0 +1,6 @@
+{
+	"name": "OnPremoteAzureintegrationRuntime1",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
