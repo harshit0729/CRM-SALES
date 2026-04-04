@@ -1,0 +1,9 @@
+{
+	"name": "DFprjct",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "516ecdc4-13a8-4ccc-a216-68cf4d2551b0",
+		"tenantId": "1f31f759-ae19-4a0c-bfe4-da57efb5ec40"
+	}
+}

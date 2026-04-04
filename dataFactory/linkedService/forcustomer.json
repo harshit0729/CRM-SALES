@@ -1,0 +1,17 @@
+{
+	"name": "forcustomer",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "myserverhj.database.windows.net",
+			"database": "cloud",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "Harshit",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDIwMzJCQjEwLUE5NTUtNDc5MC1CMjQ2LTk1OEZDMzA0RDc5QV85OWI2YmY1NS1hMTA4LTQ4YmUtYTVkMS1hNTk2Yzg2MTRjMmMiDQp9"
+		}
+	}
+}
